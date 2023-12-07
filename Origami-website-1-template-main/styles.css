@@ -28,7 +28,8 @@ body{
     border-radius: 50px;
 }
 .origami {
-    
+
+    text-align: center;
     border-radius: 20px;
     background-color: #808080;
     /* modify margin and padding here*/
